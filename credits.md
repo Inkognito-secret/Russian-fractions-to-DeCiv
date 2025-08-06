@@ -19,3 +19,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Reading] from https://thenounproject.com/creator/biartstudios4/
 [Antenna] from https://thenounproject.com/creator/kerismaker/
 [Grim reaper] from https://thenounproject.com/creator/rikassdzihab/
+[Tank] from https://thenounproject.com/creator/nanikhaq/
