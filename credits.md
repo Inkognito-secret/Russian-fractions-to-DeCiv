@@ -16,3 +16,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [passion] from https://thenounproject.com/creator/bedon28/
 [conferense] from https://thenounproject.com/creator/jesus53/
 [Space station] from https://thenounproject.com/creator/peterlake/
+[Reading] from https://thenounproject.com/creator/biartstudios4/
