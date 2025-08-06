@@ -17,3 +17,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [conferense] from https://thenounproject.com/creator/jesus53/
 [Space station] from https://thenounproject.com/creator/peterlake/
 [Reading] from https://thenounproject.com/creator/biartstudios4/
+[Antenna] from https://thenounproject.com/creator/kerismaker/
