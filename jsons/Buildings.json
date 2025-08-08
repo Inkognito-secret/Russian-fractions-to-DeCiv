@@ -36,7 +36,7 @@
 		],
 	},
 	{
-		"name": "Retrain survivors",
+		"name": "Retrain Survivors",
 		"replaces": "Search for Survivors",
 		"uniqueTo": "Eurasia",
 		"cost": 40,
@@ -47,7 +47,7 @@
 			"Gain a free [Chitalna] [in this city]"],
 	},
 	{
-		"name": "Subpassional quarter",
+		"name": "Subpassional Quarter",
 		"replaces": "Prison Camp",
 		"uniqueTo": "Eurasia",
 		"cost": 50,
@@ -70,7 +70,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
+		"percentStatBonus": {"science": 23},
 		"specialistSlots": {"Scientist": 1},
 		"uniques": [
 			"[+1 Science] from [Jungle] tiles [in this city]",
@@ -91,7 +91,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
-			"[+1 Science] [in this city] <when above [0] [Power]>",
+			"[+1 Сulture] [in this city] <when above [0] [Power]>",
 			"Only available <in cities with a [Library]>"
 		],
 	},
