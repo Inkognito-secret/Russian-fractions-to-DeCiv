@@ -1,3 +1,35 @@
 [
   {
     "name": "Passionary",
+    "production": 5,
+		"food": 5,
+		"gold": 6,
+		"science": 6,
+		"culture": 10,
+		"happiness": 7,
+		"faith": 5,
+		"military": 8,
+		"aggressive": 4,
+		"declareWar": 8,
+		"commerce": 7,
+		"diplomacy": 3,
+		"loyal": 5,
+		"expansion": 7,
+		"priorities": {
+			"Adaptation": 20,
+			"Expansionism": 30,
+			"Sovereignty": 10,
+			"Theocracy": 20,
+			"Rationalism": 20,
+			"Constitution": 0,
+			"Supremacy": 50,
+			"Monopoly": 30,
+			"Collectivism": 10,
+			"Rediscovery": 20,
+			"Naturalism": 0,
+			"Mechanization": 10,
+			"Bionics": 30,
+			"Legacy": 40
+		}
+  }
+]
