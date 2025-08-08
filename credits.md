@@ -20,3 +20,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Antenna] from https://thenounproject.com/creator/kerismaker/
 [Grim reaper] from https://thenounproject.com/creator/rikassdzihab/
 [Tank] from https://thenounproject.com/creator/nanikhaq/
+[ai lab] from https://thenounproject.com/creator/glyphy/
