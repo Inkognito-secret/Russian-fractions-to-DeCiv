@@ -7,7 +7,6 @@ All the following are from the Noun Project licenced under either Creative Commo
 The following is from [freesound] (https://freesound.org) licensed under the Creative Commons 0 License.
 
 [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
-[Eagle] from https://thenounproject.com/creator/andhexcool/
 [Spear] from https://thenounproject.com/creator/valterbispo/
 [Book] from https://thenounproject.com/creator/metamis579/
 [Propaganda] from https://thenounproject.com/creator/nicolasrokhman/
@@ -21,3 +20,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Grim reaper] from https://thenounproject.com/creator/rikassdzihab/
 [Tank] from https://thenounproject.com/creator/nanikhaq/
 [ai lab] from https://thenounproject.com/creator/glyphy/
+[Fist] from https://thenounproject.com/creator/maxim221/
