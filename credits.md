@@ -20,4 +20,4 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 [Grim reaper] from https://thenounproject.com/creator/rikassdzihab/
 [Tank] from https://thenounproject.com/creator/nanikhaq/
 [ai lab] from https://thenounproject.com/creator/glyphy/
-[Fist] from https://thenounproject.com/creator/maxim221/
+[vision] from https://thenounproject.com/creator/ahmadwil/
